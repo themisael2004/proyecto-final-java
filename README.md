@@ -23,7 +23,14 @@
 
 ## 📄 Descripción
 
-Aplicación de consola que permite <em>[describe aquí qué hace tu aplicación]</em>.
+Aplicación de consola para <strong>gestión integral de mascotas</strong> que permite:
+- 🐶 Registrar nuevas mascotas (nombre, edad, tipo)
+- 📋 Visualizar pacientes registrados
+- 🖥️ Interfaz mediante menú interactivo
+- 🏗️ Arquitectura POO con:
+  - Clase `Mascota` (modelado de datos)
+  - Clase `Veterinaria` (lógica principal)
+  - Clase `MenuVeterinaria` (interacción con usuario)
 
 ---
 
