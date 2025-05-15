@@ -34,10 +34,10 @@ Aplicación de consola que permite <em>[describe aquí qué hace tu aplicación]
     <pre><code>git clone https://github.com/themisael2004/proyecto-final-java.git</code></pre>
   </li>
   <li>🛠️ Compilar el proyecto con tu IDE preferido o desde consola:
-    <pre><code>javac NombreDelArchivoPrincipal.java</code></pre>
+    <pre><code>javac AppVeterinaria/src/*.java -d .</code></pre>
   </li>
   <li>▶️ Ejecutar la clase principal:
-    <pre><code>java NombreDelArchivoPrincipal</code></pre>
+    <pre><code>java App</code></pre>
   </li>
 </ol>
 
